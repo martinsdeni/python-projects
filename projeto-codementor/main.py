@@ -70,7 +70,7 @@ acertos = 0
 
 # Configuração da janela principal
 janela = tk.Tk()
-janela.title("Quiz de Programação")
+janela.title("Codementor")
 
 # Configuração do label para a pergunta
 pergunta_label = tk.Label(janela, text="", font=("Arial", 14), wraplength=400)
